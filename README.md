@@ -3,7 +3,7 @@
 Analyze the emotional vibes in The Weeknd's lyrics with AI! Predict moods like "Melancholic" or "Dark" in real-time.
 CLICK BELOW TO GET ACCESS
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-codebymanaswini-the-weekend-lyrics-sentiment-analysis.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codebymanaswini-the-weekend-lyrics-sentiment-analysis.streamlit.app)
 
 ## 📊 Dataset Stats
 - **Songs**: 52
