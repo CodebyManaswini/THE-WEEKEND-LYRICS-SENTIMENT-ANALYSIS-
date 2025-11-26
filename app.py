@@ -112,5 +112,3 @@ else:
     sample_df = df[['song_title', 'album', 'year', 'sentiment']].head(10)
     st.dataframe(sample_df, use_container_width=True)
 
-st.markdown("---")
-st.markdown("**XO till we overdose**)
